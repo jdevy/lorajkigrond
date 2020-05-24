@@ -1,0 +1,30 @@
+[
+    {
+        "id": "franceinter",
+        "nom": "France Inter",
+        "prefix_url": "https://www.franceinter.fr/",
+        "emissions_json_file": "liste_emissions_france_inter.json",
+        "logo": "France-Inter.png"
+    },
+    {
+        "id": "franceculture",
+        "nom": "France Culture",
+        "prefix_url": "https://www.franceculture.fr/",
+        "emissions_json_file": "liste_emissions_france_culture.json",
+        "logo": "France-Culture.png"
+    },
+    {
+        "id": "fip",
+        "nom": "Fip",
+        "prefix_url": "https://www.fipradio.fr/",
+        "emissions_json_file": "liste_emissions_france_inter.json",
+        "logo": "FIP.png"
+    },
+    {
+        "id": "francemusique",
+        "nom": "France Musique",
+        "prefix_url": "https://www.francemusique.fr/",
+        "emissions_json_file": "liste_emissions_france_inter.json",
+        "logo": "France-Musique.png"
+    }
+]
