@@ -1,4 +1,4 @@
-# hackernews-vue-apollo
+# lorajkigrond
 
 > A Vue.js project
 
