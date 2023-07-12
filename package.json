@@ -19,7 +19,7 @@
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "tachyons": "^4.11.1",
     "vue": "^2.5.2",
     "vue-apollo": "^3.0.3",
